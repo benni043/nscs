@@ -1,0 +1,480 @@
+dn: cn=Ioana-Denisa Barbos, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Ioana-Denisa Barbos
+displayName: Ioana-Denisa Barbos
+sn: Barbos
+givenName: Ioana-Denisa
+initials: IB
+title: Dr
+uid: Ioana-Denisa
+mail: ioana-denisa.barbos@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Ioana-Denisa
+userPassword: Ioana-Denisa
+
+dn: cn=Maximilian Ertl, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Maximilian Ertl
+displayName: Maximilian Ertl
+sn: Ertl
+givenName: Maximilian
+initials: ME
+title: Dr
+uid: Maximilian
+mail: maximilian.ertl@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Maximilian
+userPassword: Maximilian
+
+dn: cn=Tobias Frischmann, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Tobias Frischmann
+displayName: Tobias Frischmann
+sn: Frischmann
+givenName: Tobias
+initials: TF
+title: Dr
+uid: Tobias
+mail: tobias.frischmann@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Tobias
+userPassword: Tobias
+
+dn: cn=Fabian Gangl, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Fabian Gangl
+displayName: Fabian Gangl
+sn: Gangl
+givenName: Fabian
+initials: FG
+title: Dr
+uid: Fabian
+mail: fabian.gangl@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Fabian
+userPassword: Fabian
+
+dn: cn=Fabian Götz, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Fabian Götz
+displayName: Fabian Götz
+sn: Götz
+givenName: Fabian
+initials: FG
+title: Dr
+uid: Fabian
+mail: fabian.goetz@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Fabian
+userPassword: Fabian
+
+dn: cn=Leon Heßeling, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Leon Heßeling
+displayName: Leon Heßeling
+sn: Heßeling
+givenName: Leon
+initials: LH
+title: Dr
+uid: Leon
+mail: leon.hesselling@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Leon
+userPassword: Leon
+
+dn: cn=Benedikt Huff, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Benedikt Huff
+displayName: Benedikt Huff
+sn: Huff
+givenName: Benedikt
+initials: BH
+title: Dr
+uid: Benedikt
+mail: benedikt.huff@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Benedikt
+userPassword: Benedikt
+
+dn: cn=Maximilian Jilch, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Maximilian Jilch
+displayName: Maximilian Jilch
+sn: Jilch
+givenName: Maximilian
+initials: MJ
+title: Dr
+uid: Maximilian
+mail: maximilian.jilch@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Maximilian
+userPassword: Maximilian
+
+dn: cn=Julian Kainzbauer, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Julian Kainzbauer
+displayName: Julian Kainzbauer
+sn: Kainzbauer
+givenName: Julian
+initials: JK
+title: Dr
+uid: Julian
+mail: julian.kainzbauer@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Julian
+userPassword: Julian
+
+dn: cn=Roman Mohnl, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Roman Mohnl
+displayName: Roman Mohnl
+sn: Mohnl
+givenName: Roman
+initials: RM
+title: Dr
+uid: Roman
+mail: roman.mohnl@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Roman
+userPassword: Roman
+
+dn: cn=Dominik Nageler, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Dominik Nageler
+displayName: Dominik Nageler
+sn: Nageler
+givenName: Dominik
+initials: DN
+title: Dr
+uid: Dominik
+mail: dominik.nageler@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Dominik
+userPassword: Dominik
+
+dn: cn=Dijana Panic, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Dijana Panic
+displayName: Dijana Panic
+sn: Panic
+givenName: Dijana
+initials: DP
+title: Dr
+uid: Dijana
+mail: dijana.panic@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Dijana
+userPassword: Dijana
+
+dn: cn=Elias  Patru, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Elias  Patru
+displayName: Elias  Patru
+sn: Patru
+givenName: Elias 
+initials: EP
+title: Dr
+uid: Elias 
+mail: elias.patru@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Elias 
+userPassword: Elias
+
+dn: cn=Oliver Pecek, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Oliver Pecek
+displayName: Oliver Pecek
+sn: Pecek
+givenName: Oliver
+initials: OP
+title: Dr
+uid: Oliver
+mail: oliver.pecek@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Oliver
+userPassword: Oliver
+
+dn: cn=Jonas Pfeifer, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Jonas Pfeifer
+displayName: Jonas Pfeifer
+sn: Pfeifer
+givenName: Jonas
+initials: JP
+title: Dr
+uid: Jonas
+mail: jonas.pfeifer@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Jonas
+userPassword: Jonas
+
+dn: cn=Sebastian Plasek, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Sebastian Plasek
+displayName: Sebastian Plasek
+sn: Plasek
+givenName: Sebastian
+initials: SP
+title: Dr
+uid: Sebastian
+mail: sebastian.plasek@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Sebastian
+userPassword: Sebastian
+
+dn: cn=Manuel Rabl, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Manuel Rabl
+displayName: Manuel Rabl
+sn: Rabl
+givenName: Manuel
+initials: MR
+title: Dr
+uid: Manuel
+mail: manuel.rabl@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Manuel
+userPassword: Manuel
+
+dn: cn=Jonas Rauchenberger, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Jonas Rauchenberger
+displayName: Jonas Rauchenberger
+sn: Rauchenberger
+givenName: Jonas
+initials: JR
+title: Dr
+uid: Jonas
+mail: jonas.rauchenberger@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Jonas
+userPassword: Jonas
+
+dn: cn=Franjo Rola, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Franjo Rola
+displayName: Franjo Rola
+sn: Rola
+givenName: Franjo
+initials: FR
+title: Dr
+uid: Franjo
+mail: f.rola@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Franjo
+userPassword: Franjo
+
+dn: cn=Philip Schweiger, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Philip Schweiger
+displayName: Philip Schweiger
+sn: Schweiger
+givenName: Philip
+initials: PS
+title: Dr
+uid: Philip
+mail: philip.schweiger@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Philip
+userPassword: Philip
+
+dn: cn=Florian Singer, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Florian Singer
+displayName: Florian Singer
+sn: Singer
+givenName: Florian
+initials: FS
+title: Dr
+uid: Florian
+mail: florian.singer@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Florian
+userPassword: Florian
+
+dn: cn=Tobias Sprecher, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Tobias Sprecher
+displayName: Tobias Sprecher
+sn: Sprecher
+givenName: Tobias
+initials: TS
+title: Dr
+uid: Tobias
+mail: tobias.sprecher@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Tobias
+userPassword: Tobias
+
+dn: cn=Javkhlanbayar Uuganbayar, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Javkhlanbayar Uuganbayar
+displayName: Javkhlanbayar Uuganbayar
+sn: Uuganbayar
+givenName: Javkhlanbayar
+initials: JU
+title: Dr
+uid: Javkhlanbayar
+mail: javkhlanbayar.uuganbayar@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Javkhlanbayar
+userPassword: Javkhlanbayar
+
+dn: cn=Tobias Zechmeister, ou=users, o=if, dc=huff,dc=lan
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: posixAccount
+cn: Tobias Zechmeister
+displayName: Tobias Zechmeister
+sn: Zechmeister
+givenName: Tobias
+initials: TZ
+title: Dr
+uid: Tobias
+mail: tobias.zechmeister@htlstp.at
+roomNumber: N326
+uidNumber: 5000
+gidNumber: 5000
+homeDirectory: /home/Tobias
+userPassword: Tobias
+
